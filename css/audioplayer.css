@@ -1,0 +1,14 @@
+body {
+	
+}
+a.sm2_link:link{
+	padding-left:20px;
+	background:transparent url(images/icon_play.gif) no-repeat top left;
+}
+a.sm2_paused:link{
+	background:transparent url(images/icon_pause.gif) no-repeat top left;
+	
+}
+a.sm2_playing:link{
+	background:transparent url(images/icon_play_current.gif) no-repeat top left;
+}
